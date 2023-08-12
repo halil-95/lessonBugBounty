@@ -1,22 +1,9 @@
 what will be learn
 
-	http basics
-	cookie sequrity
-	html parsing
-	mime sniffing 
-	encoding sniffing
-	same-origin police
-	CSRF (cross-site request forgesy)
+терминалогия
+haking 
+фрикинг
+Хакатон — форум для разработчиков, во время которого специалисты из разных областей разработки программного обеспечения сообща решают какую-либо проблему на время. 
+GED = General Educational Developmen
 
-requare tools
-	java 
-	fire-fox
-	
-what you need
-	1. download XMind programm
-	2. Bughunter.xmind // this map all internet architecture
-
-
-
-
-
+what tools do I need?b 
